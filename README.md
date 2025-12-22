@@ -1,0 +1,1 @@
+This repository holds my code for the Advent of Code challenge 2025. 
